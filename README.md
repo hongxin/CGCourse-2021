@@ -1,4 +1,4 @@
-# CGCourse-2021
+# Computer Graphics 2021
 Computer Graphics Course in ZJU, 2020
 
 ## Description
